@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "AtlasRp (DM = add Rmx.alt <a:41561turquoisecrown:1334584689176084611> ",
+        name: "AtlasRp (DM = add Rmx.alt )🛡️ ",
         // Activity type number (4 = Custom).
         type: 1, 
       },
