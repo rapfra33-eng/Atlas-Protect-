@@ -25,8 +25,8 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "nick zbi 🛡️ ",
-        // Activity type number (0 = Playing).
+        name: "Atlas Protection (DM = Rmx.Alt)  🛡️ ",
+        // Activity type number (1 = Streaming).
         type: 1, 
       },
     ],
